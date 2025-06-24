@@ -1,12 +1,198 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\infrastructure\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\infrastructure\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\infrastructure\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\infrastructure\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\mapping\\contactprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\mapping\\contactprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\domain\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\domain\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\domain\\repositories\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\domain\\repositories\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\esameifoa_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\esameifoa_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|c:\\users\\filippo\\desktop\\esameifoa\\esameifoa_server\\esameifoa_server\\esameifoa_server\\domain\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ADB3CD-32A2-4168-91C2-BDE9D8C720A5}|EsameIfoa_Server\\EsameIfoa_Server.csproj|solutionrelative:esameifoa_server\\domain\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Program.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Program.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:37:43.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Mapping\\ContactProfile.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Mapping\\ContactProfile.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Mapping\\ContactProfile.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Mapping\\ContactProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:21:49.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:20:42.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Infrastructure\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Infrastructure\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Infrastructure\\Services\\ContactService.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Infrastructure\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:19:09.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Infrastructure\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Infrastructure\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Infrastructure\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Infrastructure\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:18:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Infrastructure\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Infrastructure\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Infrastructure\\Data\\DataContext.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Infrastructure\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:18:44.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Dto\\ContactDto.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Dto\\ContactDto.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Dto\\ContactDto.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Dto\\ContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:17:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Domain\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Domain\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Domain\\Services\\IContactService.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Domain\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:14:13.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Domain\\Repositories\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Domain\\Repositories\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Domain\\Repositories\\IContactRepository.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Domain\\Repositories\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:13:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Domain\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\Domain\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\Domain\\Models\\Contact.cs",
+              "RelativeToolTip": "EsameIfoa_Server\\Domain\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:11:44.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EsameIfoa_Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server.csproj",
+              "RelativeDocumentMoniker": "EsameIfoa_Server\\EsameIfoa_Server.csproj",
+              "ToolTip": "C:\\Users\\Filippo\\Desktop\\EsameIfoa\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server\\EsameIfoa_Server.csproj",
+              "RelativeToolTip": "EsameIfoa_Server\\EsameIfoa_Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T08:10:45.06Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EsameIfoa_Server.props" />
+</Project>
